@@ -10,7 +10,7 @@ Cloud-Hosting-Demo-Page
 
 ## Live Demo
 
-[Live](https://muhmmdusama.github.io//)
+[Live](https://muhmmdusama.github.io/Capstone-Cloud-Hosting/#)
 
 ## Getting Started
 
