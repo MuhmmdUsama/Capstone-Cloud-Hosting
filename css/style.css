@@ -9,6 +9,7 @@
 *::after,
 *::before {
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 /* font-family - "Lato", sans-serif */
@@ -31,7 +32,6 @@ body {
   font-family: "Lato", sans-serif;
   font-size: 2.4rem;
   line-height: 1.5;
-  overflow-x: hidden;
 }
 
 body h1,
@@ -61,6 +61,7 @@ body h1 {
   background-size: contain;
   -webkit-background-clip: text;
   color: transparent;
+  overflow: hidden;
 }
 
 h2 {
@@ -713,6 +714,7 @@ footer {
 .footer p {
   font-size: 1.3rem;
   width: 30rem;
+  padding-right: 5rem;
 }
 
 .footer__info {
