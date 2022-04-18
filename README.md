@@ -12,10 +12,6 @@ Cloud-Hosting-Demo-Page
 
 [Live](https://muhmmdusama.github.io/Capstone-Cloud-Hosting/#)
 
-## Original design idea by
-
-[Cindy Shin in Behance.](https://www.behance.net/adagio07)
-
 ## Getting Started
 
 **This is an example for a repo.**
@@ -34,8 +30,13 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
-## 📝 License
+## Acknowledgments
+
+[Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
 [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
+## 📝 License
 
 This project is [MIT](./MIT.md) licensed.

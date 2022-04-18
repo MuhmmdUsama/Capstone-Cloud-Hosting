@@ -599,7 +599,7 @@ a {
   }
 
   .card__item:hover {
-    border: 1.5px solid var(--color-secondary);
+    border: 1.5px solid var(--color-accent);
     background-color: var(--color-primary);
   }
 
@@ -674,6 +674,9 @@ a {
 .partner__item img {
   width: 9rem;
   margin: 0 2rem 3rem 2rem;
+  -webkit-filter: grayscale(100%);
+  filter: gray;
+  opacity: 0.7;
 }
 
 .about__partner {
