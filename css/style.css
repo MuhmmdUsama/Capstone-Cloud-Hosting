@@ -544,14 +544,16 @@ a {
   justify-content: space-between;
   margin-bottom: 1rem;
   width: 100%;
+  overflow: hidden;
 }
 
 .card__item img {
   height: auto;
   position: absolute;
   align-self: center;
-  width: 4rem;
+  width: 3.5rem;
   margin: 1rem 1rem;
+  filter: invert(100%);
 }
 
 /* ######## Partner h3 ######### */
@@ -583,6 +585,7 @@ a {
   position: relative;
   text-align: left;
   overflow-x: hidden;
+  padding: 1rem;
 }
 
 .about__middle {
@@ -779,6 +782,7 @@ footer {
   .footer h2,
   .footer p {
     font-size: 1.3rem;
+    margin-left: 3rem;
     width: 40rem;
   }
 

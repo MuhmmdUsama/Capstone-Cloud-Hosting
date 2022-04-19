@@ -8,6 +8,10 @@ Cloud-Hosting-Demo-Page
 - Css
 - Js
 
+## Project documentation
+
+[Watch](https://drive.google.com/file/d/1mB7v6urJiINyeMtVoxA-Vkn0wLf1hMmi/view?usp=sharing)
+
 ## Live Demo
 
 [Live](https://muhmmdusama.github.io/Capstone-Cloud-Hosting/#)

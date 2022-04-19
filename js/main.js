@@ -22,31 +22,31 @@ const owners = [
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi doloremque quos expedita.',
   },
   {
-    name: 'John smith',
+    name: 'John snow',
     image: 'Owners/owner-02.png',
     description:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi doloremque quos expedita.',
   },
   {
-    name: 'John smith',
+    name: 'Ron wisly',
     image: 'Owners/owner-03.png',
     description:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi doloremque quos expedita.',
   },
   {
-    name: 'John smith',
+    name: 'Harry potter',
     image: 'Owners/owner-04.png',
     description:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi doloremque quos expedita.',
   },
   {
-    name: 'John smith',
+    name: 'Sara johns',
     image: 'Owners/owner-05.png',
     description:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi doloremque quos expedita.',
   },
   {
-    name: 'John smith',
+    name: 'Emlya clark',
     image: 'Owners/owner-06.png',
     description:
       'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi doloremque quos expedita.',
