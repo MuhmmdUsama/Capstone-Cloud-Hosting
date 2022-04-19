@@ -553,7 +553,8 @@ a {
   position: absolute;
   align-self: center;
   width: 3.5rem;
-  margin: 1rem 1rem;
+  /* margin: 1rem 1rem; */
+  margin-left: 1rem;
   filter: invert(100%);
 }
 
@@ -660,6 +661,10 @@ a {
     margin: 10rem 0;
     width: 15rem;
     position: absolute;
+  }
+
+  .card__item img{
+    margin: 1rem 0;
   }
 }
 
