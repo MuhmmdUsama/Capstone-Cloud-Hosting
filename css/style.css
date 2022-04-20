@@ -757,6 +757,7 @@ footer {
 .footer {
   display: flex;
   justify-content: center;
+  overflow-x: hidden;
 }
 
 .footer__logo {

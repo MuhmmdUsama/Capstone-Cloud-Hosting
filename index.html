@@ -7,6 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   </head>
   <body>
     <header>
@@ -64,7 +65,7 @@
     <!-- ######### Hero Section ######## -->
 
     <section class="hero">
-      <div>
+      <div data-aos="fade-down">
         <q>Hello!</q>
         <h1>
           Cloud Hosting<br />
@@ -90,7 +91,7 @@
       </div>
 
       <div class="card__body grid grid--5x1">
-        <div class="card__item">
+        <div class="card__item" data-aos="flip-left">
           <img src="icons/growth.svg" alt="Card icon" />
           <h3>Growth</h3>
           <p>
@@ -99,7 +100,7 @@
           </p>
         </div>
 
-        <div class="card__item">
+        <div class="card__item" data-aos="flip-right">
           <img src="icons/easy.svg" alt="Card icon" />
           <h3>Caching</h3>
           <p>
@@ -108,7 +109,7 @@
           </p>
         </div>
 
-        <div class="card__item">
+        <div class="card__item" data-aos="flip-left">
           <img src="icons/computer.svg" alt="Card icon" />
           <h3>Dashboard</h3>
           <p>
@@ -117,7 +118,7 @@
           </p>
         </div>
 
-        <div class="card__item">
+        <div class="card__item" data-aos="flip-right">
           <img src="icons/settings.svg" alt="Card icon" />
           <h3>Manage</h3>
           <p>
@@ -126,7 +127,7 @@
           </p>
         </div>
 
-        <div class="card__item">
+        <div class="card__item" data-aos="flip-left">
           <img src="icons/snap.svg" alt="Card icon" />
           <h3>Mirroring</h3>
           <p>
@@ -150,7 +151,7 @@
         <img class="indicator" src="images/indicator.svg" alt="indicator" />
       </div>
 
-      <div class="owner__content grid grid--2x3">
+      <div class="owner__content grid grid--2x3" data-aos="fade-right">
         <!--############## Js generating template #################-->
       </div>
     </section>
@@ -196,8 +197,8 @@
       </ul>
     </section>
 
-    <footer class="show">
-      <div class="footer">
+    <footer class="show" >
+      <div class="footer" data-aos="fade-left">
         <div>
           <img class="footer__logo" src="images/cloud.png" alt="logo" />
         </div>
@@ -212,5 +213,9 @@
     </footer>
 
     <script src="js/main.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
   </body>
 </html>
